@@ -1,0 +1,9 @@
+name: TakeFive
+main: com.leontg77.takefive.Main
+version: 1.0
+author: LeonTG77
+description: Every time you kill someone, you get to see their inventory and take 5 (stacks) of items before it disappears.
+
+commands:
+  takefive:
+    description: Get information, enable or disable the scenario.
